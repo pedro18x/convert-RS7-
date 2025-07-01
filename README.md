@@ -1,6 +1,6 @@
 # Convert
 
-Convert é uma aplicação web simples desenvolvida no curso Fullstack da Rocketseat para conversão de moedas estrangeiras (Dólar Americano, Euro e Libra Esterlina) para o Real Brasileiro (BRL). O projeto possui uma interface moderna e responsiva, desenvolvida com HTML, CSS e JavaScript puro.
+Convert é uma aplicação web simples desenvolvida no curso Fullstack da [Rocketseat](https://app.rocketseat.com.br/) para conversão de moedas estrangeiras (Dólar Americano, Euro e Libra Esterlina) para o Real Brasileiro (BRL). O projeto possui uma interface moderna e responsiva, desenvolvida com HTML, CSS e JavaScript puro.
 
 ## Funcionalidades
 - Conversão de valores de USD, EUR e GBP para BRL, utilizando cotações fixas no código.
